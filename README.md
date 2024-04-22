@@ -3,6 +3,7 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
 Explore our [ Free Trial Proxies ](https://oxylabs.io/products/free-trial-proxies) with a 7-day trial for businesses and a 3-day money-back guarantee for individuals. Our versatile proxies support HTTP, HTTPS, & SOCKS5 protocols, ensuring efficient data collection. Perfect for web scraping, these proxies offer both Residential & Datacenter IPs. Get started easily with our user-friendly guide at Free Trial Proxies.
 
